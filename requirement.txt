@@ -1,0 +1,10 @@
+Python 3.11.5
+azure-ai-formrecognizer==3.3.3
+Flask==3.0.3
+openai==1.35.13
+regex==2024.5.15
+azure-core==1.30.2
+Werkzeug==3.0.3
+itsdangerous==2.2.0
+Jinja2==3.1.4
+PyPDF2==3.0.1
